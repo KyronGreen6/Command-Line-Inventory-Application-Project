@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "title": "Blade",
+      "priceInCents": "1",
+      "inStock": "1"
+    },
+    {
+      "id": "2",
+      "title": "Gladiator",
+      "priceInCents": "1299",
+      "inStock": "18"
+    },
+    {
+      "id": "3",
+      "title": "City Of God",
+      "priceInCents": 1199,
+      "inStock": 7
+    },
+    {
+      "id": "5VL1",
+      "title": "Ex Machina",
+      "priceInCents": "899",
+      "inStock": "18"
+    }
+  ]
